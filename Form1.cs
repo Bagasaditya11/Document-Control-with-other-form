@@ -23,7 +23,7 @@ namespace Upload_Dlabor
         {
             InitializeComponent();
         }
-        SqlConnection connsql = new SqlConnection(@"Data Source=EDP-RIDWAN\SQLEXPRESS;Initial Catalog=ZAI_PARAM;User ID=sa;Password=123;");
+        SqlConnection connsql = new SqlConnection(@"Data Source=SERVERLOCA\SQLEXPRESS;Initial Catalog=LOCALDB;User ID=sa;Password=sa123;");
         //SqlConnection connsql = new SqlConnection(@"Data Source=192.168.20.8\SERVLOCAL;Initial Catalog=ZAI_PARAM;User ID=sa;Password=local123;");
 
         int totalRecords = 0;
