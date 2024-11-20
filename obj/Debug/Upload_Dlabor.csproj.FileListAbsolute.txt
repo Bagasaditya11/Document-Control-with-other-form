@@ -1,0 +1,52 @@
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor\Upload_Dlabor\Upload_Dlabor\bin\Debug\Upload_Dlabor.exe.config
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor\Upload_Dlabor\Upload_Dlabor\bin\Debug\Upload_Dlabor.exe
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor\Upload_Dlabor\Upload_Dlabor\bin\Debug\Upload_Dlabor.pdb
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor\Upload_Dlabor\Upload_Dlabor\bin\Debug\MySql.Data.dll
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor\Upload_Dlabor\Upload_Dlabor\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor\Upload_Dlabor\Upload_Dlabor\bin\Debug\MySql.Web.dll
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor\Upload_Dlabor\Upload_Dlabor\obj\Debug\Upload_Dlabor.csproj.AssemblyReference.cache
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor\Upload_Dlabor\Upload_Dlabor\obj\Debug\Upload_Dlabor.Properties.Resources.resources
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor\Upload_Dlabor\Upload_Dlabor\obj\Debug\Upload_Dlabor.csproj.GenerateResource.cache
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor\Upload_Dlabor\Upload_Dlabor\obj\Debug\Upload_Dlabor.csproj.CoreCompileInputs.cache
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor\Upload_Dlabor\Upload_Dlabor\obj\Debug\Upload_Dlabor.csproj.CopyComplete
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor\Upload_Dlabor\Upload_Dlabor\obj\Debug\Upload_Dlabor.exe
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor\Upload_Dlabor\Upload_Dlabor\obj\Debug\Upload_Dlabor.pdb
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor\Upload_Dlabor\Upload_Dlabor\obj\Debug\Upload_Dlabor.Upload_Dlabor.resources
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\Upload_Dlabor.exe.config
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\Upload_Dlabor.exe
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\Upload_Dlabor.pdb
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\AdvancedDataGridView.dll
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\CsvHelper.dll
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\ExcelDataReader.dll
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\MySql.Data.dll
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\MySql.Web.dll
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\System.Buffers.dll
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\System.Memory.dll
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\System.Numerics.Vectors.dll
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\CsvHelper.xml
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\ExcelDataReader.pdb
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\ExcelDataReader.xml
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\System.Buffers.xml
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\System.Memory.xml
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\System.Numerics.Vectors.xml
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\obj\Debug\Upload_Dlabor.csproj.ResolveComReference.cache
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\obj\Debug\Upload_Dlabor.ConnectionDb.resources
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\obj\Debug\Upload_Dlabor.Upload_Dlabor.resources
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\obj\Debug\Upload_Dlabor.Properties.Resources.resources
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\obj\Debug\Upload_Dlabor.csproj.GenerateResource.cache
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\obj\Debug\Upload_Dlabor.csproj.CoreCompileInputs.cache
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\obj\Debug\Upload_Dlabor.csproj.CopyComplete
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\obj\Debug\Upload_Dlabor.exe
+D:\Data\Project\Visual Studio\C. Project\BUDGET\Upload DLabor _csv\Upload_Dlabor\Upload_Dlabor\obj\Debug\Upload_Dlabor.pdb
